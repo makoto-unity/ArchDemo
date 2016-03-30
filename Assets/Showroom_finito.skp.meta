@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: 9effef341a00e47e5a696b500fa606d9
+timeCreated: 1457059929
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f02000030020000310200003202000033020000340200003502000036020000370200003802000039020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 56acdbaaf22da6f9d8411c340c664dcb
+  longitude: 12.5
+  latitude: 41.883
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 11.228835, y: 3.5826905, z: 2.0101671}
+      lookAt: {x: -42.27394, y: -7.2997923, z: 63.443413}
+      up: {x: -0.086959794, y: 0.9911953, z: 0.09984945}
+      fov: 49.296898
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 5.7764134, y: 1.8845522, z: -0.012506575}
+        lookAt: {x: 19.212635, y: -0.33768144, z: 81.04025}
+        up: {x: 0.0044218004, y: 0.99963444, z: 0.026674097}
+        fov: 49.296898
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Vista ingresso
+    - camera:
+        position: {x: 11.228835, y: 3.5826905, z: 2.0101671}
+        lookAt: {x: -42.27394, y: -7.2997923, z: 63.443413}
+        up: {x: -0.086959794, y: 0.9911953, z: 0.09984945}
+        fov: 49.296898
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Interno 2
+    - camera:
+        position: {x: 1.5029831, y: 1.9763999, z: 13.645719}
+        lookAt: {x: 38.431675, y: -9.774487, z: -58.833294}
+        up: {x: 0.064907186, y: 0.9897264, z: -0.12739171}
+        fov: 49.296898
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Interno 4
+    - camera:
+        position: {x: 9.81035, y: 4.8454843, z: 13.181443}
+        lookAt: {x: -34.932438, y: -19.762224, z: -51.22013}
+        up: {x: -0.17082906, y: 0.95412636, z: -0.24588679}
+        fov: 49.296898
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Interno 1
+    - camera:
+        position: {x: 1.3569244, y: 6.5333486, z: 14.126213}
+        lookAt: {x: 62.4514, y: -21.817122, z: -32.97724}
+        up: {x: 0.27317694, y: 0.9386237, z: -0.2106177}
+        fov: 49.296898
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Interno 3
+    - camera:
+        position: {x: 4.127651, y: 5.3480296, z: 0.20752989}
+        lookAt: {x: -23.473005, y: -9.783163, z: 76.130325}
+        up: {x: -0.062900424, y: 0.98290706, z: 0.17302398}
+        fov: 49.296898
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Interno 5
+    - camera:
+        position: {x: 8.083772, y: 4.100516, z: -14.87003}
+        lookAt: {x: -1.6014305, y: 1.4590316, z: 66.70348}
+        up: {x: -0.003789261, y: 0.9994834, z: 0.031915013}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Esterno
+    - camera:
+        position: {x: 7.216081, y: 41.5149, z: 7.190444}
+        lookAt: {x: 7.216081, y: 3.8977602, z: 7.190444}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 737.57196
+        isPerspective: 0
+      name: Planimetria
+    - camera:
+        position: {x: 6.0320225, y: 4.1723433, z: -30.13519}
+        lookAt: {x: 6.0320225, y: 4.1723433, z: 7.4}
+        up: {x: 0, y: 1, z: 0}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 372.76526
+        isPerspective: 0
+      name: Prospetto
+    - camera:
+        position: {x: 4.5990453, y: 41.53179, z: 7.833061}
+        lookAt: {x: 4.5990453, y: 3.3879173, z: 7.833061}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 711.9584
+        isPerspective: 0
+      name: Pianta p.terra
+    - camera:
+        position: {x: 5.62236, y: 41.710957, z: 7.963085}
+        lookAt: {x: 5.62236, y: 3.3879173, z: 7.963085}
+        up: {x: 0, y: 0, z: 1}
+        fov: 45
+        aspectRatio: 0
+        orthoSize: 718.90826
+        isPerspective: 0
+      name: Pianta p. primo
+    - camera:
+        position: {x: 20.791998, y: 2.9996493, z: -0.8999042}
+        lookAt: {x: -52.16974, y: 2.3830013, z: 36.931618}
+        up: {x: -0.006660671, y: 0.99997187, z: 0.0034536363}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Sezione prosp B
+    - camera:
+        position: {x: 9.728728, y: 3.1138926, z: -8.76699}
+        lookAt: {x: -14.106021, y: 4.713297, z: 69.87375}
+        up: {x: 0.0056444877, y: 0.99981064, z: -0.01862351}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Sezione prosp A
+    - camera:
+        position: {x: 14.823973, y: 9.36587, z: -7.6254864}
+        lookAt: {x: 4.9498014, y: 1.8345104, z: 6.7338376}
+        up: {x: -0.22478133, y: 0.9179435, z: 0.32688397}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Solo arredo
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2004-I-S
+    100002: 2023-C1
+    100004: 2023-C1 SHANGHAI - design studio lucchi e biserni e angelo micheli
+    100006: 2d Couple
+    100008: 2D Man Sang
+    100010: 2d Woman Susan
+    100012: ALOE GRANDE
+    100014: Anteprima_2705_003
+    100016: Anteprima_2705_003 1
+    100018: Arm Rest
+    100020: Arm Rest 1
+    100022: Arm#1
+    100024: Arm#1 1
+    100026: Armadio anta battente
+    100028: Back Pillow#1
+    100030: Back Pillow#1 1
+    100032: Back Rest
+    100034: Back Rest 1
+    100036: Base
+    100038: Base 1
+    100040: Border
+    100042: Border 1
+    100044: Border#1
+    100046: Border#1 1
+    100048: Capsu
+    100050: Capsu1
+    100052: Capsu2
+    100054: Capsula
+    100056: Cattelan Italia Convivium Console
+    100058: Cattelan Italia Europa Sideboard
+    100060: Cattelan Italia Isabel Chair
+    100062: Cattelan Italia Isabel Chair 1
+    100064: Cattelan Italia Isabel Chair 2
+    100066: Cattelan Italia Isabel Chair 3
+    100068: Cattelan Italia Wally Bookcase
+    100070: cavi_2004_
+    100072: CAVO_ELETT#1
+    100074: Chair
+    100076: Chair 1
+    100078: Cilin2
+    100080: Cilin3
+    100082: Cilin4
+    100084: Cilin5
+    100086: Cilin6
+    100088: Cilindro_1
+    100090: Component#1
+    100092: Component#2
+    100094: Component#2 1
+    100096: Component#2 2
+    100098: Component#3
+    100100: Component#3 1
+    100102: Component#3 2
+    100104: Component#5
+    100106: Component#6
+    100108: Component#7
+    100110: Componente#1
+    100112: Componente#1 1
+    100114: Componente#1 10
+    100116: Componente#1 11
+    100118: Componente#1 12
+    100120: Componente#1 13
+    100122: Componente#1 14
+    100124: Componente#1 15
+    100126: Componente#1 16
+    100128: Componente#1 17
+    100130: Componente#1 2
+    100132: Componente#1 3
+    100134: Componente#1 4
+    100136: Componente#1 5
+    100138: Componente#1 6
+    100140: Componente#1 7
+    100142: Componente#1 8
+    100144: Componente#1 9
+    100146: Componente#2
+    100148: Componente#2 1
+    100150: Componente#2 2
+    100152: Componente#2 3
+    100154: Componente#2 4
+    100156: Componente#3
+    100158: Componente#3 1
+    100160: Convivium
+    100162: corpo_2004
+    100164: Crono
+    100166: Crono 1
+    100168: Cushion
+    100170: Cushion 1
+    100172: dado
+    100174: dado1
+    100176: diffusore_
+    100178: Don_Giovanni_2906_005
+    100180: Europa
+    100182: Feel Good Ten
+    100184: Flexform Crono 2015
+    100186: Flexform Crono 2015 1
+    100188: Flexform Piuma Cabinet
+    100190: Front Supporting
+    100192: Front Supporting 1
+    100194: Front Supporting 2
+    100196: Front Supporting 3
+    100198: GRASS 08
+    100200: Group 201
+    100202: Group 203
+    100204: Group 22
+    100206: Group 24
+    100208: Group 26
+    100210: Group 28
+    100212: Group 30
+    100214: Group 32
+    100216: Group 34
+    100218: Group 40
+    100220: Group 41
+    100222: Group 46
+    100224: Group 49
+    100226: Group 51
+    100228: Group 53
+    100230: Group 55
+    100232: Group 57
+    100234: Group 59
+    100236: Group 61
+    100238: Group 63
+    100240: Group 65
+    100242: Group 66
+    100244: Group 68
+    100246: Group 70
+    100248: Group 72
+    100250: Group 74
+    100252: Image 10
+    100254: Image 11
+    100256: Image 12
+    100258: Image 13
+    100260: Image 14
+    100262: Image 15
+    100264: Image 16
+    100266: Image 17
+    100268: Image 18
+    100270: Image 19
+    100272: Image 2
+    100274: Image 20
+    100276: Image 21
+    100278: Image 3
+    100280: Image 4
+    100282: Image 5
+    100284: Image 6
+    100286: Image 7
+    100288: Image 8
+    100290: Image 9
+    100292: IPE 120 CSN 42 0135,00
+    100294: IPE 120 CSN 42 0135,00 1
+    100296: IPE 120 CSN 42 0135,00 2
+    100298: IPE 120 CSN 42 0135,00 3
+    100300: IPE 200 CSN 42 0135,00
+    100302: IPE 200 CSN 42 0135,00 1
+    100304: IPE 200 CSN 42 0135,00 2
+    100306: IPE 200 CSN 42 0135,00 3
+    100308: IPE 200 CSN 42 0135,00 4
+    100310: IPE 200 CSN 42 0135,00#1
+    100312: IPE 200 CSN 42 0135,00#1 1
+    100314: IPE 200 CSN 42 0135,00#1 2
+    100316: IPE 200 CSN 42 0135,00#1 3
+    100318: IPE 200 CSN 42 0135,00#2
+    100320: IPE 200 CSN 42 0135,00#2 1
+    100322: Isabel
+    100324: Isabel 1
+    100326: Isabel 2
+    100328: Isabel 3
+    100330: lampadina_
+    100332: Leg
+    100334: Leg 1
+    100336: Leg#1
+    100338: Leg#1 1
+    100340: Leg#1 2
+    100342: Leg#1 3
+    100344: legs
+    100346: legs 1
+    100348: legs 2
+    100350: legs#1
+    100352: Lema Plain
+    100354: LEMA PLAIN BOOKCASE
+    100356: LEMA WARDROBE HINGED DOORS
+    100358: LEMA WING CHAIR
+    100360: LEMA WING CHAIR 1
+    100362: LEMA WING CHAIR 2
+    100364: merano foglie
+    100366: merano foglie 1
+    100368: mesh3d_002
+    100370: mesh3d_013
+    100372: mesh3d_014
+    100374: mesh3d_015
+    100376: mesh3d_016
+    100378: mesh3d_017
+    100380: mesh3d_018
+    100382: mesh3d_019
+    100384: mesh3d_020
+    100386: mesh3d_021
+    100388: mesh3d_022
+    100390: mesh3d_023
+    100392: mesh3d_024
+    100394: mesh3d_025
+    100396: mesh3d_026
+    100398: mesh3d_027
+    100400: mesh3d_028
+    100402: mesh3d_029
+    100404: mesh3d_030
+    100406: mesh3d_031
+    100408: mesh3d_032
+    100410: mesh3d_033
+    100412: mesh3d_034
+    100414: mesh3d_035
+    100416: mesh3d_036
+    100418: mesh3d_037
+    100420: mesh3d_040
+    100422: mesh3d_043
+    100424: mesh3d_046
+    100426: mesh3d_049
+    100428: mesh3ds in
+    100430: mesh3ds in 1
+    100432: mesh3ds in 2
+    100434: mesh3ds in 3
+    100436: mesh3ds in 4
+    100438: mesh3ds in 5
+    100440: Obj_000001
+    100442: Obj_000001 1
+    100444: Obj_000001 2
+    100446: Obj_000001#1
+    100448: Obj_000001#1 1
+    100450: Obj_000001#2
+    100452: Obj_000002
+    100454: Obj_000002 1
+    100456: Obj_000002#1
+    100458: Obj_000003
+    100460: Obj_000003 1
+    100462: Obj_000004
+    100464: Obj_000004 1
+    100466: Obj_000005
+    100468: Obj_000005 1
+    100470: Obj_000006
+    100472: Obj_000006 1
+    100474: Obj_000016
+    100476: Obj_000016 1
+    100478: Obj_000016 10
+    100480: Obj_000016 11
+    100482: Obj_000016 12
+    100484: Obj_000016 13
+    100486: Obj_000016 14
+    100488: Obj_000016 15
+    100490: Obj_000016 16
+    100492: Obj_000016 17
+    100494: Obj_000016 18
+    100496: Obj_000016 19
+    100498: Obj_000016 2
+    100500: Obj_000016 20
+    100502: Obj_000016 21
+    100504: Obj_000016 22
+    100506: Obj_000016 23
+    100508: Obj_000016 3
+    100510: Obj_000016 4
+    100512: Obj_000016 5
+    100514: Obj_000016 6
+    100516: Obj_000016 7
+    100518: Obj_000016 8
+    100520: Obj_000016 9
+    100522: Obj_000030
+    100524: Obj_000030 1
+    100526: Obj_000030 2
+    100528: Obj_000030 3
+    100530: Obj_000030 4
+    100532: Obj_000030 5
+    100534: Obj_000032
+    100536: Obj_000032 1
+    100538: Obj_000032 2
+    100540: Obj_000032 3
+    100542: Obj_000032 4
+    100544: Obj_000032 5
+    100546: Obj_000032 6
+    100548: Obj_000032 7
+    100550: perno
+    100552: perno1
+    100554: Piuma
+    100556: RIFLE_1
+    100558: Rotaz
+    100560: Rotaz1
+    100562: Rotaz2
+    100564: Rotazione_
+    100566: Seat Cushion
+    100568: Seat Cushion 1
+    100570: Seat Cushion#1
+    100572: Seat Cushion#1 1
+    100574: Seat#1
+    100576: Seat#1 1
+    100578: Seat#2
+    100580: //RootNode
+    100582: Sophie#6
+    100584: stems
+    100586: Supporting Leg
+    100588: Supporting Leg 1
+    100590: Supporting Leg 2
+    100592: Supporting Leg 3
+    100594: Tappo_1#1
+    100596: Tappo_2#1
+    100598: TE3RMIINAL
+    100600: Tempo_2834_009
+    100602: top
+    100604: TUB_TRASP_
+    100606: TUBO_FLUOR
+    100608: vert_
+    100610: vert_lampa
+    100612: Viaggio_2847_003
+    100614: Viaggio_2847_003 1
+    100616: Wally
+    100618: Wing
+    100620: Wing 1
+    100622: Wing 2
+    100624: Winter Woods
+    400000: 2004-I-S
+    400002: 2023-C1
+    400004: 2023-C1 SHANGHAI - design studio lucchi e biserni e angelo micheli
+    400006: 2d Couple
+    400008: 2D Man Sang
+    400010: 2d Woman Susan
+    400012: ALOE GRANDE
+    400014: Anteprima_2705_003
+    400016: Anteprima_2705_003 1
+    400018: Arm Rest
+    400020: Arm Rest 1
+    400022: Arm#1
+    400024: Arm#1 1
+    400026: Armadio anta battente
+    400028: Back Pillow#1
+    400030: Back Pillow#1 1
+    400032: Back Rest
+    400034: Back Rest 1
+    400036: Base
+    400038: Base 1
+    400040: Border
+    400042: Border 1
+    400044: Border#1
+    400046: Border#1 1
+    400048: Capsu
+    400050: Capsu1
+    400052: Capsu2
+    400054: Capsula
+    400056: Cattelan Italia Convivium Console
+    400058: Cattelan Italia Europa Sideboard
+    400060: Cattelan Italia Isabel Chair
+    400062: Cattelan Italia Isabel Chair 1
+    400064: Cattelan Italia Isabel Chair 2
+    400066: Cattelan Italia Isabel Chair 3
+    400068: Cattelan Italia Wally Bookcase
+    400070: cavi_2004_
+    400072: CAVO_ELETT#1
+    400074: Chair
+    400076: Chair 1
+    400078: Cilin2
+    400080: Cilin3
+    400082: Cilin4
+    400084: Cilin5
+    400086: Cilin6
+    400088: Cilindro_1
+    400090: Component#1
+    400092: Component#2
+    400094: Component#2 1
+    400096: Component#2 2
+    400098: Component#3
+    400100: Component#3 1
+    400102: Component#3 2
+    400104: Component#5
+    400106: Component#6
+    400108: Component#7
+    400110: Componente#1
+    400112: Componente#1 1
+    400114: Componente#1 10
+    400116: Componente#1 11
+    400118: Componente#1 12
+    400120: Componente#1 13
+    400122: Componente#1 14
+    400124: Componente#1 15
+    400126: Componente#1 16
+    400128: Componente#1 17
+    400130: Componente#1 2
+    400132: Componente#1 3
+    400134: Componente#1 4
+    400136: Componente#1 5
+    400138: Componente#1 6
+    400140: Componente#1 7
+    400142: Componente#1 8
+    400144: Componente#1 9
+    400146: Componente#2
+    400148: Componente#2 1
+    400150: Componente#2 2
+    400152: Componente#2 3
+    400154: Componente#2 4
+    400156: Componente#3
+    400158: Componente#3 1
+    400160: Convivium
+    400162: corpo_2004
+    400164: Crono
+    400166: Crono 1
+    400168: Cushion
+    400170: Cushion 1
+    400172: dado
+    400174: dado1
+    400176: diffusore_
+    400178: Don_Giovanni_2906_005
+    400180: Europa
+    400182: Feel Good Ten
+    400184: Flexform Crono 2015
+    400186: Flexform Crono 2015 1
+    400188: Flexform Piuma Cabinet
+    400190: Front Supporting
+    400192: Front Supporting 1
+    400194: Front Supporting 2
+    400196: Front Supporting 3
+    400198: GRASS 08
+    400200: Group 201
+    400202: Group 203
+    400204: Group 22
+    400206: Group 24
+    400208: Group 26
+    400210: Group 28
+    400212: Group 30
+    400214: Group 32
+    400216: Group 34
+    400218: Group 40
+    400220: Group 41
+    400222: Group 46
+    400224: Group 49
+    400226: Group 51
+    400228: Group 53
+    400230: Group 55
+    400232: Group 57
+    400234: Group 59
+    400236: Group 61
+    400238: Group 63
+    400240: Group 65
+    400242: Group 66
+    400244: Group 68
+    400246: Group 70
+    400248: Group 72
+    400250: Group 74
+    400252: Image 10
+    400254: Image 11
+    400256: Image 12
+    400258: Image 13
+    400260: Image 14
+    400262: Image 15
+    400264: Image 16
+    400266: Image 17
+    400268: Image 18
+    400270: Image 19
+    400272: Image 2
+    400274: Image 20
+    400276: Image 21
+    400278: Image 3
+    400280: Image 4
+    400282: Image 5
+    400284: Image 6
+    400286: Image 7
+    400288: Image 8
+    400290: Image 9
+    400292: IPE 120 CSN 42 0135,00
+    400294: IPE 120 CSN 42 0135,00 1
+    400296: IPE 120 CSN 42 0135,00 2
+    400298: IPE 120 CSN 42 0135,00 3
+    400300: IPE 200 CSN 42 0135,00
+    400302: IPE 200 CSN 42 0135,00 1
+    400304: IPE 200 CSN 42 0135,00 2
+    400306: IPE 200 CSN 42 0135,00 3
+    400308: IPE 200 CSN 42 0135,00 4
+    400310: IPE 200 CSN 42 0135,00#1
+    400312: IPE 200 CSN 42 0135,00#1 1
+    400314: IPE 200 CSN 42 0135,00#1 2
+    400316: IPE 200 CSN 42 0135,00#1 3
+    400318: IPE 200 CSN 42 0135,00#2
+    400320: IPE 200 CSN 42 0135,00#2 1
+    400322: Isabel
+    400324: Isabel 1
+    400326: Isabel 2
+    400328: Isabel 3
+    400330: lampadina_
+    400332: Leg
+    400334: Leg 1
+    400336: Leg#1
+    400338: Leg#1 1
+    400340: Leg#1 2
+    400342: Leg#1 3
+    400344: legs
+    400346: legs 1
+    400348: legs 2
+    400350: legs#1
+    400352: Lema Plain
+    400354: LEMA PLAIN BOOKCASE
+    400356: LEMA WARDROBE HINGED DOORS
+    400358: LEMA WING CHAIR
+    400360: LEMA WING CHAIR 1
+    400362: LEMA WING CHAIR 2
+    400364: merano foglie
+    400366: merano foglie 1
+    400368: mesh3d_002
+    400370: mesh3d_013
+    400372: mesh3d_014
+    400374: mesh3d_015
+    400376: mesh3d_016
+    400378: mesh3d_017
+    400380: mesh3d_018
+    400382: mesh3d_019
+    400384: mesh3d_020
+    400386: mesh3d_021
+    400388: mesh3d_022
+    400390: mesh3d_023
+    400392: mesh3d_024
+    400394: mesh3d_025
+    400396: mesh3d_026
+    400398: mesh3d_027
+    400400: mesh3d_028
+    400402: mesh3d_029
+    400404: mesh3d_030
+    400406: mesh3d_031
+    400408: mesh3d_032
+    400410: mesh3d_033
+    400412: mesh3d_034
+    400414: mesh3d_035
+    400416: mesh3d_036
+    400418: mesh3d_037
+    400420: mesh3d_040
+    400422: mesh3d_043
+    400424: mesh3d_046
+    400426: mesh3d_049
+    400428: mesh3ds in
+    400430: mesh3ds in 1
+    400432: mesh3ds in 2
+    400434: mesh3ds in 3
+    400436: mesh3ds in 4
+    400438: mesh3ds in 5
+    400440: Obj_000001
+    400442: Obj_000001 1
+    400444: Obj_000001 2
+    400446: Obj_000001#1
+    400448: Obj_000001#1 1
+    400450: Obj_000001#2
+    400452: Obj_000002
+    400454: Obj_000002 1
+    400456: Obj_000002#1
+    400458: Obj_000003
+    400460: Obj_000003 1
+    400462: Obj_000004
+    400464: Obj_000004 1
+    400466: Obj_000005
+    400468: Obj_000005 1
+    400470: Obj_000006
+    400472: Obj_000006 1
+    400474: Obj_000016
+    400476: Obj_000016 1
+    400478: Obj_000016 10
+    400480: Obj_000016 11
+    400482: Obj_000016 12
+    400484: Obj_000016 13
+    400486: Obj_000016 14
+    400488: Obj_000016 15
+    400490: Obj_000016 16
+    400492: Obj_000016 17
+    400494: Obj_000016 18
+    400496: Obj_000016 19
+    400498: Obj_000016 2
+    400500: Obj_000016 20
+    400502: Obj_000016 21
+    400504: Obj_000016 22
+    400506: Obj_000016 23
+    400508: Obj_000016 3
+    400510: Obj_000016 4
+    400512: Obj_000016 5
+    400514: Obj_000016 6
+    400516: Obj_000016 7
+    400518: Obj_000016 8
+    400520: Obj_000016 9
+    400522: Obj_000030
+    400524: Obj_000030 1
+    400526: Obj_000030 2
+    400528: Obj_000030 3
+    400530: Obj_000030 4
+    400532: Obj_000030 5
+    400534: Obj_000032
+    400536: Obj_000032 1
+    400538: Obj_000032 2
+    400540: Obj_000032 3
+    400542: Obj_000032 4
+    400544: Obj_000032 5
+    400546: Obj_000032 6
+    400548: Obj_000032 7
+    400550: perno
+    400552: perno1
+    400554: Piuma
+    400556: RIFLE_1
+    400558: Rotaz
+    400560: Rotaz1
+    400562: Rotaz2
+    400564: Rotazione_
+    400566: Seat Cushion
+    400568: Seat Cushion 1
+    400570: Seat Cushion#1
+    400572: Seat Cushion#1 1
+    400574: Seat#1
+    400576: Seat#1 1
+    400578: Seat#2
+    400580: //RootNode
+    400582: Sophie#6
+    400584: stems
+    400586: Supporting Leg
+    400588: Supporting Leg 1
+    400590: Supporting Leg 2
+    400592: Supporting Leg 3
+    400594: Tappo_1#1
+    400596: Tappo_2#1
+    400598: TE3RMIINAL
+    400600: Tempo_2834_009
+    400602: top
+    400604: TUB_TRASP_
+    400606: TUBO_FLUOR
+    400608: vert_
+    400610: vert_lampa
+    400612: Viaggio_2847_003
+    400614: Viaggio_2847_003 1
+    400616: Wally
+    400618: Wing
+    400620: Wing 1
+    400622: Wing 2
+    400624: Winter Woods
+    2300000: 2023-C1
+    2300002: 2d Couple
+    2300004: 2D Man Sang
+    2300006: 2d Woman Susan
+    2300008: Arm Rest
+    2300010: Arm Rest 1
+    2300012: Arm#1
+    2300014: Arm#1 1
+    2300016: Back Pillow#1
+    2300018: Back Pillow#1 1
+    2300020: Back Rest
+    2300022: Back Rest 1
+    2300024: Base
+    2300026: Base 1
+    2300028: Border
+    2300030: Border 1
+    2300032: Border#1
+    2300034: Border#1 1
+    2300036: Capsu
+    2300038: Capsu1
+    2300040: Capsu2
+    2300042: Capsula
+    2300044: cavi_2004_
+    2300046: CAVO_ELETT#1
+    2300048: Chair
+    2300050: Chair 1
+    2300052: Cilin2
+    2300054: Cilin3
+    2300056: Cilin4
+    2300058: Cilin5
+    2300060: Cilin6
+    2300062: Cilindro_1
+    2300064: Component#1
+    2300066: Component#2
+    2300068: Component#2 1
+    2300070: Component#2 2
+    2300072: Component#3
+    2300074: Component#3 1
+    2300076: Component#3 2
+    2300078: Component#5
+    2300080: Component#6
+    2300082: Component#7
+    2300084: Componente#1
+    2300086: Componente#1 1
+    2300088: Componente#1 10
+    2300090: Componente#1 11
+    2300092: Componente#1 12
+    2300094: Componente#1 13
+    2300096: Componente#1 14
+    2300098: Componente#1 15
+    2300100: Componente#1 16
+    2300102: Componente#1 17
+    2300104: Componente#1 2
+    2300106: Componente#1 3
+    2300108: Componente#1 4
+    2300110: Componente#1 5
+    2300112: Componente#1 6
+    2300114: Componente#1 7
+    2300116: Componente#1 8
+    2300118: Componente#1 9
+    2300120: Componente#2
+    2300122: Componente#2 1
+    2300124: Componente#2 2
+    2300126: Componente#2 3
+    2300128: Componente#2 4
+    2300130: Componente#3
+    2300132: Componente#3 1
+    2300134: corpo_2004
+    2300136: Cushion
+    2300138: Cushion 1
+    2300140: dado
+    2300142: dado1
+    2300144: diffusore_
+    2300146: Europa
+    2300148: Feel Good Ten
+    2300150: Front Supporting
+    2300152: Front Supporting 1
+    2300154: Front Supporting 2
+    2300156: Front Supporting 3
+    2300158: Group 201
+    2300160: Group 203
+    2300162: Group 22
+    2300164: Group 24
+    2300166: Group 26
+    2300168: Group 28
+    2300170: Group 30
+    2300172: Group 32
+    2300174: Group 34
+    2300176: Group 41
+    2300178: Group 46
+    2300180: Group 49
+    2300182: Group 51
+    2300184: Group 53
+    2300186: Group 55
+    2300188: Group 57
+    2300190: Group 59
+    2300192: Group 61
+    2300194: Group 63
+    2300196: Group 66
+    2300198: Group 68
+    2300200: Group 70
+    2300202: Group 72
+    2300204: Group 74
+    2300206: Image 10
+    2300208: Image 11
+    2300210: Image 12
+    2300212: Image 13
+    2300214: Image 14
+    2300216: Image 15
+    2300218: Image 16
+    2300220: Image 17
+    2300222: Image 18
+    2300224: Image 19
+    2300226: Image 2
+    2300228: Image 20
+    2300230: Image 21
+    2300232: Image 3
+    2300234: Image 4
+    2300236: Image 5
+    2300238: Image 6
+    2300240: Image 7
+    2300242: Image 8
+    2300244: Image 9
+    2300246: IPE 120 CSN 42 0135,00
+    2300248: IPE 120 CSN 42 0135,00 1
+    2300250: IPE 120 CSN 42 0135,00 2
+    2300252: IPE 120 CSN 42 0135,00 3
+    2300254: IPE 200 CSN 42 0135,00
+    2300256: IPE 200 CSN 42 0135,00 1
+    2300258: IPE 200 CSN 42 0135,00 2
+    2300260: IPE 200 CSN 42 0135,00 3
+    2300262: IPE 200 CSN 42 0135,00 4
+    2300264: IPE 200 CSN 42 0135,00#1
+    2300266: IPE 200 CSN 42 0135,00#1 1
+    2300268: IPE 200 CSN 42 0135,00#1 2
+    2300270: IPE 200 CSN 42 0135,00#1 3
+    2300272: IPE 200 CSN 42 0135,00#2
+    2300274: IPE 200 CSN 42 0135,00#2 1
+    2300276: Isabel
+    2300278: Isabel 1
+    2300280: Isabel 2
+    2300282: Isabel 3
+    2300284: lampadina_
+    2300286: Leg
+    2300288: Leg 1
+    2300290: Leg#1
+    2300292: Leg#1 1
+    2300294: Leg#1 2
+    2300296: Leg#1 3
+    2300298: legs
+    2300300: legs 1
+    2300302: legs 2
+    2300304: legs#1
+    2300306: merano foglie
+    2300308: merano foglie 1
+    2300310: mesh3d_002
+    2300312: mesh3d_013
+    2300314: mesh3d_014
+    2300316: mesh3d_015
+    2300318: mesh3d_016
+    2300320: mesh3d_017
+    2300322: mesh3d_018
+    2300324: mesh3d_019
+    2300326: mesh3d_020
+    2300328: mesh3d_021
+    2300330: mesh3d_022
+    2300332: mesh3d_023
+    2300334: mesh3d_024
+    2300336: mesh3d_025
+    2300338: mesh3d_026
+    2300340: mesh3d_027
+    2300342: mesh3d_028
+    2300344: mesh3d_029
+    2300346: mesh3d_030
+    2300348: mesh3d_031
+    2300350: mesh3d_032
+    2300352: mesh3d_033
+    2300354: mesh3d_034
+    2300356: mesh3d_035
+    2300358: mesh3d_036
+    2300360: mesh3d_037
+    2300362: mesh3d_040
+    2300364: mesh3d_043
+    2300366: mesh3d_046
+    2300368: mesh3d_049
+    2300370: mesh3ds in
+    2300372: mesh3ds in 1
+    2300374: mesh3ds in 2
+    2300376: mesh3ds in 3
+    2300378: mesh3ds in 4
+    2300380: mesh3ds in 5
+    2300382: Obj_000001
+    2300384: Obj_000001 1
+    2300386: Obj_000001 2
+    2300388: Obj_000001#1
+    2300390: Obj_000001#1 1
+    2300392: Obj_000001#2
+    2300394: Obj_000002
+    2300396: Obj_000002 1
+    2300398: Obj_000002#1
+    2300400: Obj_000003
+    2300402: Obj_000003 1
+    2300404: Obj_000004
+    2300406: Obj_000004 1
+    2300408: Obj_000005
+    2300410: Obj_000005 1
+    2300412: Obj_000006
+    2300414: Obj_000006 1
+    2300416: Obj_000016
+    2300418: Obj_000016 1
+    2300420: Obj_000016 10
+    2300422: Obj_000016 11
+    2300424: Obj_000016 12
+    2300426: Obj_000016 13
+    2300428: Obj_000016 14
+    2300430: Obj_000016 15
+    2300432: Obj_000016 16
+    2300434: Obj_000016 17
+    2300436: Obj_000016 18
+    2300438: Obj_000016 19
+    2300440: Obj_000016 2
+    2300442: Obj_000016 20
+    2300444: Obj_000016 21
+    2300446: Obj_000016 22
+    2300448: Obj_000016 23
+    2300450: Obj_000016 3
+    2300452: Obj_000016 4
+    2300454: Obj_000016 5
+    2300456: Obj_000016 6
+    2300458: Obj_000016 7
+    2300460: Obj_000016 8
+    2300462: Obj_000016 9
+    2300464: Obj_000030
+    2300466: Obj_000030 1
+    2300468: Obj_000030 2
+    2300470: Obj_000030 3
+    2300472: Obj_000030 4
+    2300474: Obj_000030 5
+    2300476: Obj_000032
+    2300478: Obj_000032 1
+    2300480: Obj_000032 2
+    2300482: Obj_000032 3
+    2300484: Obj_000032 4
+    2300486: Obj_000032 5
+    2300488: Obj_000032 6
+    2300490: Obj_000032 7
+    2300492: perno
+    2300494: perno1
+    2300496: RIFLE_1
+    2300498: Rotaz
+    2300500: Rotaz1
+    2300502: Rotaz2
+    2300504: Rotazione_
+    2300506: Seat Cushion
+    2300508: Seat Cushion 1
+    2300510: Seat Cushion#1
+    2300512: Seat Cushion#1 1
+    2300514: Seat#1
+    2300516: Seat#1 1
+    2300518: Seat#2
+    2300520: //RootNode
+    2300522: Sophie#6
+    2300524: stems
+    2300526: Supporting Leg
+    2300528: Supporting Leg 1
+    2300530: Supporting Leg 2
+    2300532: Supporting Leg 3
+    2300534: Tappo_1#1
+    2300536: Tappo_2#1
+    2300538: TE3RMIINAL
+    2300540: top
+    2300542: TUB_TRASP_
+    2300544: TUBO_FLUOR
+    2300546: vert_
+    2300548: vert_lampa
+    2300550: Wally
+    2300552: Winter Woods
+    3300000: 2023-C1
+    3300002: 2d Couple
+    3300004: 2D Man Sang
+    3300006: 2d Woman Susan
+    3300008: Arm Rest
+    3300010: Arm Rest 1
+    3300012: Arm#1
+    3300014: Arm#1 1
+    3300016: Back Pillow#1
+    3300018: Back Pillow#1 1
+    3300020: Back Rest
+    3300022: Back Rest 1
+    3300024: Base
+    3300026: Base 1
+    3300028: Border
+    3300030: Border 1
+    3300032: Border#1
+    3300034: Border#1 1
+    3300036: Capsu
+    3300038: Capsu1
+    3300040: Capsu2
+    3300042: Capsula
+    3300044: cavi_2004_
+    3300046: CAVO_ELETT#1
+    3300048: Chair
+    3300050: Chair 1
+    3300052: Cilin2
+    3300054: Cilin3
+    3300056: Cilin4
+    3300058: Cilin5
+    3300060: Cilin6
+    3300062: Cilindro_1
+    3300064: Component#1
+    3300066: Component#2
+    3300068: Component#2 1
+    3300070: Component#2 2
+    3300072: Component#3
+    3300074: Component#3 1
+    3300076: Component#3 2
+    3300078: Component#5
+    3300080: Component#6
+    3300082: Component#7
+    3300084: Componente#1
+    3300086: Componente#1 1
+    3300088: Componente#1 10
+    3300090: Componente#1 11
+    3300092: Componente#1 12
+    3300094: Componente#1 13
+    3300096: Componente#1 14
+    3300098: Componente#1 15
+    3300100: Componente#1 16
+    3300102: Componente#1 17
+    3300104: Componente#1 2
+    3300106: Componente#1 3
+    3300108: Componente#1 4
+    3300110: Componente#1 5
+    3300112: Componente#1 6
+    3300114: Componente#1 7
+    3300116: Componente#1 8
+    3300118: Componente#1 9
+    3300120: Componente#2
+    3300122: Componente#2 1
+    3300124: Componente#2 2
+    3300126: Componente#2 3
+    3300128: Componente#2 4
+    3300130: Componente#3
+    3300132: Componente#3 1
+    3300134: corpo_2004
+    3300136: Cushion
+    3300138: Cushion 1
+    3300140: dado
+    3300142: dado1
+    3300144: diffusore_
+    3300146: Europa
+    3300148: Feel Good Ten
+    3300150: Front Supporting
+    3300152: Front Supporting 1
+    3300154: Front Supporting 2
+    3300156: Front Supporting 3
+    3300158: Group 201
+    3300160: Group 203
+    3300162: Group 22
+    3300164: Group 24
+    3300166: Group 26
+    3300168: Group 28
+    3300170: Group 30
+    3300172: Group 32
+    3300174: Group 34
+    3300176: Group 41
+    3300178: Group 46
+    3300180: Group 49
+    3300182: Group 51
+    3300184: Group 53
+    3300186: Group 55
+    3300188: Group 57
+    3300190: Group 59
+    3300192: Group 61
+    3300194: Group 63
+    3300196: Group 66
+    3300198: Group 68
+    3300200: Group 70
+    3300202: Group 72
+    3300204: Group 74
+    3300206: Image 10
+    3300208: Image 11
+    3300210: Image 12
+    3300212: Image 13
+    3300214: Image 14
+    3300216: Image 15
+    3300218: Image 16
+    3300220: Image 17
+    3300222: Image 18
+    3300224: Image 19
+    3300226: Image 2
+    3300228: Image 20
+    3300230: Image 21
+    3300232: Image 3
+    3300234: Image 4
+    3300236: Image 5
+    3300238: Image 6
+    3300240: Image 7
+    3300242: Image 8
+    3300244: Image 9
+    3300246: IPE 120 CSN 42 0135,00
+    3300248: IPE 120 CSN 42 0135,00 1
+    3300250: IPE 120 CSN 42 0135,00 2
+    3300252: IPE 120 CSN 42 0135,00 3
+    3300254: IPE 200 CSN 42 0135,00
+    3300256: IPE 200 CSN 42 0135,00 1
+    3300258: IPE 200 CSN 42 0135,00 2
+    3300260: IPE 200 CSN 42 0135,00 3
+    3300262: IPE 200 CSN 42 0135,00 4
+    3300264: IPE 200 CSN 42 0135,00#1
+    3300266: IPE 200 CSN 42 0135,00#1 1
+    3300268: IPE 200 CSN 42 0135,00#1 2
+    3300270: IPE 200 CSN 42 0135,00#1 3
+    3300272: IPE 200 CSN 42 0135,00#2
+    3300274: IPE 200 CSN 42 0135,00#2 1
+    3300276: Isabel
+    3300278: Isabel 1
+    3300280: Isabel 2
+    3300282: Isabel 3
+    3300284: lampadina_
+    3300286: Leg
+    3300288: Leg 1
+    3300290: Leg#1
+    3300292: Leg#1 1
+    3300294: Leg#1 2
+    3300296: Leg#1 3
+    3300298: legs
+    3300300: legs 1
+    3300302: legs 2
+    3300304: legs#1
+    3300306: merano foglie
+    3300308: merano foglie 1
+    3300310: mesh3d_002
+    3300312: mesh3d_013
+    3300314: mesh3d_014
+    3300316: mesh3d_015
+    3300318: mesh3d_016
+    3300320: mesh3d_017
+    3300322: mesh3d_018
+    3300324: mesh3d_019
+    3300326: mesh3d_020
+    3300328: mesh3d_021
+    3300330: mesh3d_022
+    3300332: mesh3d_023
+    3300334: mesh3d_024
+    3300336: mesh3d_025
+    3300338: mesh3d_026
+    3300340: mesh3d_027
+    3300342: mesh3d_028
+    3300344: mesh3d_029
+    3300346: mesh3d_030
+    3300348: mesh3d_031
+    3300350: mesh3d_032
+    3300352: mesh3d_033
+    3300354: mesh3d_034
+    3300356: mesh3d_035
+    3300358: mesh3d_036
+    3300360: mesh3d_037
+    3300362: mesh3d_040
+    3300364: mesh3d_043
+    3300366: mesh3d_046
+    3300368: mesh3d_049
+    3300370: mesh3ds in
+    3300372: mesh3ds in 1
+    3300374: mesh3ds in 2
+    3300376: mesh3ds in 3
+    3300378: mesh3ds in 4
+    3300380: mesh3ds in 5
+    3300382: Obj_000001
+    3300384: Obj_000001 1
+    3300386: Obj_000001 2
+    3300388: Obj_000001#1
+    3300390: Obj_000001#1 1
+    3300392: Obj_000001#2
+    3300394: Obj_000002
+    3300396: Obj_000002 1
+    3300398: Obj_000002#1
+    3300400: Obj_000003
+    3300402: Obj_000003 1
+    3300404: Obj_000004
+    3300406: Obj_000004 1
+    3300408: Obj_000005
+    3300410: Obj_000005 1
+    3300412: Obj_000006
+    3300414: Obj_000006 1
+    3300416: Obj_000016
+    3300418: Obj_000016 1
+    3300420: Obj_000016 10
+    3300422: Obj_000016 11
+    3300424: Obj_000016 12
+    3300426: Obj_000016 13
+    3300428: Obj_000016 14
+    3300430: Obj_000016 15
+    3300432: Obj_000016 16
+    3300434: Obj_000016 17
+    3300436: Obj_000016 18
+    3300438: Obj_000016 19
+    3300440: Obj_000016 2
+    3300442: Obj_000016 20
+    3300444: Obj_000016 21
+    3300446: Obj_000016 22
+    3300448: Obj_000016 23
+    3300450: Obj_000016 3
+    3300452: Obj_000016 4
+    3300454: Obj_000016 5
+    3300456: Obj_000016 6
+    3300458: Obj_000016 7
+    3300460: Obj_000016 8
+    3300462: Obj_000016 9
+    3300464: Obj_000030
+    3300466: Obj_000030 1
+    3300468: Obj_000030 2
+    3300470: Obj_000030 3
+    3300472: Obj_000030 4
+    3300474: Obj_000030 5
+    3300476: Obj_000032
+    3300478: Obj_000032 1
+    3300480: Obj_000032 2
+    3300482: Obj_000032 3
+    3300484: Obj_000032 4
+    3300486: Obj_000032 5
+    3300488: Obj_000032 6
+    3300490: Obj_000032 7
+    3300492: perno
+    3300494: perno1
+    3300496: RIFLE_1
+    3300498: Rotaz
+    3300500: Rotaz1
+    3300502: Rotaz2
+    3300504: Rotazione_
+    3300506: Seat Cushion
+    3300508: Seat Cushion 1
+    3300510: Seat Cushion#1
+    3300512: Seat Cushion#1 1
+    3300514: Seat#1
+    3300516: Seat#1 1
+    3300518: Seat#2
+    3300520: //RootNode
+    3300522: Sophie#6
+    3300524: stems
+    3300526: Supporting Leg
+    3300528: Supporting Leg 1
+    3300530: Supporting Leg 2
+    3300532: Supporting Leg 3
+    3300534: Tappo_1#1
+    3300536: Tappo_2#1
+    3300538: TE3RMIINAL
+    3300540: top
+    3300542: TUB_TRASP_
+    3300544: TUBO_FLUOR
+    3300546: vert_
+    3300548: vert_lampa
+    3300550: Wally
+    3300552: Winter Woods
+    4300000: Mesh Showroom_finito
+    4300002: Mesh Showroom_finito
+    4300004: Mesh Showroom_finito
+    4300006: Mesh Showroom_finito
+    4300008: Mesh Showroom_finito
+    4300010: Mesh Showroom_finito
+    4300012: Mesh Showroom_finito
+    4300014: Mesh Showroom_finito
+    4300016: Mesh Showroom_finito
+    4300018: Mesh Showroom_finito
+    4300020: Mesh Showroom_finito
+    4300022: Mesh Showroom_finito
+    4300024: Mesh Showroom_finito
+    4300026: Mesh Showroom_finito
+    4300028: Mesh Showroom_finito
+    4300030: Mesh Showroom_finito
+    4300032: Mesh Showroom_finito
+    4300034: Mesh Showroom_finito
+    4300036: Mesh Showroom_finito
+    4300038: Mesh Showroom_finito
+    4300040: Mesh Showroom_finito
+    4300042: Mesh Group 22
+    4300044: Mesh Group 24
+    4300046: Mesh Group 26
+    4300048: Mesh Group 28
+    4300050: Mesh Group 30
+    4300052: Mesh Group 32
+    4300054: Mesh Group 34
+    4300056: Mesh merano foglie
+    4300058: Mesh Group 41
+    4300060: Mesh stems
+    4300062: Mesh Group 46
+    4300064: Mesh Group 49
+    4300066: Mesh Group 51
+    4300068: Mesh Group 53
+    4300070: Mesh Group 55
+    4300072: Mesh Group 59
+    4300074: Mesh Group 61
+    4300076: Mesh Group 63
+    4300078: Mesh Group 68
+    4300080: Mesh Group 70
+    4300082: Mesh Componente#3
+    4300084: Mesh Leg
+    4300086: Mesh Arm#1
+    4300088: Mesh Seat#1
+    4300090: Mesh Leg#1
+    4300092: Mesh Seat#2
+    4300094: Mesh Back Pillow#1
+    4300096: Mesh Seat Cushion#1
+    4300098: Mesh Border
+    4300100: Mesh Back Pillow#1
+    4300102: Mesh Base
+    4300104: Mesh Arm Rest
+    4300106: Mesh Border#1
+    4300108: Mesh Front Supporting
+    4300110: Mesh Supporting Leg
+    4300112: Mesh Cushion
+    4300114: Mesh cavi_2004_
+    4300116: Mesh corpo_2004
+    4300118: Mesh diffusore_
+    4300120: Mesh lampadina_
+    4300122: Mesh 2023-C1
+    4300124: Mesh CAVO_ELETT#1
+    4300126: Mesh Tappo_1#1
+    4300128: Mesh Tappo_2#1
+    4300130: Mesh RIFLE_1
+    4300132: Mesh TE3RMIINAL
+    4300134: Mesh TUBO_FLUOR
+    4300136: Mesh TUB_TRASP_
+    4300138: Mesh Capsula
+    4300140: Mesh Cilin3
+    4300142: Mesh Cilin4
+    4300144: Mesh dado1
+    4300146: Mesh perno
+    4300148: Mesh Capsu1
+    4300150: Mesh Cilindro_1
+    4300152: Mesh Rotaz2
+    4300154: Mesh Rotaz
+    4300156: Mesh vert_
+    4300158: Mesh Capsu2
+    4300160: Mesh Cilin5
+    4300162: Mesh Cilin6
+    4300164: Mesh dado
+    4300166: Mesh perno1
+    4300168: Mesh Capsu
+    4300170: Mesh Cilin2
+    4300172: Mesh Rotazione_
+    4300174: Mesh Rotaz1
+    4300176: Mesh vert_lampa
+    4300178: Mesh Feel Good Ten
+    4300180: Mesh Group 201
+    4300182: Mesh Group 203
+    4300184: Mesh mesh3d_002
+    4300186: Mesh mesh3d_013
+    4300188: Mesh mesh3d_015
+    4300190: Mesh mesh3d_016
+    4300192: Mesh mesh3d_017
+    4300194: Mesh mesh3d_018
+    4300196: Mesh mesh3d_019
+    4300198: Mesh mesh3d_020
+    4300200: Mesh mesh3d_021
+    4300202: Mesh mesh3d_022
+    4300204: Mesh mesh3d_023
+    4300206: Mesh mesh3d_024
+    4300208: Mesh mesh3d_025
+    4300210: Mesh mesh3d_026
+    4300212: Mesh mesh3d_027
+    4300214: Mesh mesh3d_028
+    4300216: Mesh mesh3d_029
+    4300218: Mesh mesh3d_030
+    4300220: Mesh mesh3d_031
+    4300222: Mesh mesh3d_032
+    4300224: Mesh mesh3d_033
+    4300226: Mesh mesh3d_034
+    4300228: Mesh mesh3d_035
+    4300230: Mesh mesh3d_036
+    4300232: Mesh mesh3d_037
+    4300234: Mesh mesh3d_040
+    4300236: Mesh mesh3d_043
+    4300238: Mesh mesh3d_046
+    4300240: Mesh mesh3d_049
+    4300242: Mesh mesh3ds in
+    4300244: Mesh mesh3d_014
+    4300246: Mesh Obj_000001
+    4300248: Mesh legs
+    4300250: Mesh Wally
+    4300252: Mesh Europa
+    4300254: Mesh Obj_000001#1
+    4300256: Mesh Obj_000002
+    4300258: Mesh Obj_000003
+    4300260: Mesh Obj_000004
+    4300262: Mesh Obj_000005
+    4300264: Mesh Obj_000006
+    4300266: Mesh Chair
+    4300268: Mesh Seat Cushion
+    4300270: Mesh Back Rest
+    4300272: Mesh Componente#1
+    4300274: Mesh IPE 120 CSN 42 0135,00
+    4300276: Mesh IPE 200 CSN 42 0135,00
+    4300278: Mesh IPE 200 CSN 42 0135,00#1
+    4300280: Mesh IPE 200 CSN 42 0135,00#2
+    4300282: Mesh Componente#2
+    4300284: Mesh 2d Couple
+    4300286: Mesh Sophie#6
+    4300288: Mesh 2D Man Sang
+    4300290: Mesh 2d Woman Susan
+    4300292: Mesh Component#2
+    4300294: Mesh Obj_000001#2
+    4300296: Mesh Obj_000002#1
+    4300298: Mesh Obj_000030
+    4300300: Mesh Obj_000032
+    4300302: Mesh Obj_000016
+    4300304: Mesh Component#6
+    4300306: Mesh Component#3
+    4300308: Mesh Component#5
+    4300310: Mesh Component#7
+    4300312: Mesh Component#1
+    4300314: Mesh Isabel
+    4300316: Mesh top
+    4300318: Mesh legs#1
+    4300320: Mesh Winter Woods
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
